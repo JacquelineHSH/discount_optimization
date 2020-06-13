@@ -21,5 +21,10 @@ The data set has information about:
 8.   Discount
 9.   Net Amount (i.e., amoumt - discount)
 
-
-
+## Main approach 
+1. EDA 
+2. Train and test logit models 
+3. Repeat and compare 
+4. Find the relationship between possibility of win/lose contract and discount of the model with high R square 
+5. Optimize the revenue against discount using the above possbility relationship 
+6. Get the optimized revenue vs. original revenue
