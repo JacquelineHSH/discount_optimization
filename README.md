@@ -23,8 +23,14 @@ The data set has information about:
 
 ## Main approach 
 1. EDA 
-2. Train and test logit models 
+2. Split dataset into train and hold-out sample 
+3. Train and test logit models 
 3. Repeat and compare 
 4. Find the relationship between possibility of win/lose contract and discount of the model with high R square 
 5. Optimize the revenue against discount using the above possbility relationship 
-6. Get the optimized revenue vs. original revenue
+6. Get the ratio of optimized revenue vs. original revenue
+
+## Final result 
+Metric: Expected revenue improvement over optimized discounts in the hold-out sample 
+Value: 1.61
+Description: Ideally, the chosen logit model can increase increase 61% of the original revenue. 
