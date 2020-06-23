@@ -1,5 +1,5 @@
 # discount_optimization
-To maximize the revenue of a B2B company by optimizing the discount.
+To maximize the revenue of a B2B company with discount by using linear programming and regression.
 
 ## Data
 B2B Data from a firm selling a marketing automation software. 
