@@ -5,6 +5,11 @@ To maximize the revenue of a B2B company with discount by using linear programmi
 B2B Data from a firm selling a marketing automation software. 
 https://raw.githubusercontent.com/ormarketing/b2b/master/data.csv
 
+## Skill Set 
+Python 
+Regression & Statistics
+Linear programming & Non-linear programming
+
 ## Context 
 Two main channels are used to sell, i.e., (1) directly after lead generation efforts (e.g., trade-shows, email marketing campaign, website of the company) and (2) indirectly through "partners".
 
